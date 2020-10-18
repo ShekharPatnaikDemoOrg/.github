@@ -1,0 +1,12 @@
+{
+    "name": "Acme Golden Path Workflow",
+    "description": "Acme CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "*.go",
+        "^Dockerfile"
+    ]
+}
